@@ -17,5 +17,5 @@
 
 
 #### ミニマルファブコンテストについて
-- [ISHI会のミニマルファブコンテストとは？](https://ishi-kai.org/contest/minimalfab/2024/10/19/contest_minimalfab_2024_ISHI-KAI.html)
+- [ミニマルファブコンテストとは？](https://ishi-kai.org/contest/minimalfab/2024/10/19/contest_minimalfab_2024_ISHI-KAI.html)
 
