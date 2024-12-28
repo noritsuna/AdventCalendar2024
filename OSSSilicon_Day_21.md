@@ -7,10 +7,10 @@
 - ![発表スケジュール](images/21_schdule.PNG)
 
 到着しました！  
-- ![到着](images/21_airport.PNG)
+- ![到着](images/21_airport.jpg)
 
 初日の仕事風景！  
-- ![到着](images/21_drink.PNG)
+- ![到着](images/21_drink.jpg)
 
 ## OAD(オープンエアディスカッション)
 OAD(オープンエアディスカッション)ということで、グループに分かれて、野外に出て、ディスカッションを行います！！！  
@@ -25,9 +25,9 @@ OAD(オープンエアディスカッション)ということで、グループ
 アッハイ、「飲み屋に集合にしか見えないんだけど？」という苦情は受け付けておりません！あくまで「OAD報告会」です！！！  
 
 証拠のOADや会場の風景です。みんな、まじめにディスカッションを行っていることが確認できると思います。  
-- ![会場風景](images/21_photo1.PNG)
-- ![会場風景](images/21_photo2.PNG)
-- ![OAD風景](images/21_photo_OAD.PNG)
+- ![会場風景](images/21_photo1.jpg)
+- ![会場風景](images/21_photo2.jpg)
+- ![OAD風景](images/21_photo_OAD.jpg)
 
 
 ## 本当の本命
